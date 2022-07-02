@@ -1,0 +1,14 @@
+{
+	"name": "Mtriad Limited Hold",
+	"short_name": "Mtriad I",
+	"description": "A masking- and limited-hold memory task web application",
+	"id": "/1/",
+	"start_url": "/1/",
+	"display": "standalone",
+	"background_color": "#000",
+	"theme_color": "#000",
+	"icons": [
+		{ "src": "img/icon.svg", "type": "image/svg+xml", "sizes": "any", "purpose": "any maskable" },
+		{ "src": "img/icon.png", "type": "image/png", "sizes": "192x192", "purpose": "any maskable" }
+	]
+}
